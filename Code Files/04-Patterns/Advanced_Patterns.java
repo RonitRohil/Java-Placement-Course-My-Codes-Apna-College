@@ -1,4 +1,4 @@
-import javax.swing.plaf.synth.SynthStyle;
+
 
 public class Advanced_Patterns{
 

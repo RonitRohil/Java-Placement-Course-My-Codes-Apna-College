@@ -21,7 +21,6 @@ public class HW_Find_Element {
     // function to find the index
     public static int binary_search(int num[], int target, int left, int right)
     {
-        int n = num.length;
         int r = right;
         int l = left;
 
