@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Constructor",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Constructors",
+            "request": "launch",
+            "mainClass": "Constructors",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Classes_Object",
+            "request": "launch",
+            "mainClass": "Classes_Object",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
             "name": "UppercasetoLowerCase",
             "request": "launch",
             "mainClass": "UppercasetoLowerCase",
