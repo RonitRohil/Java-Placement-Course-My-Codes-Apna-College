@@ -1,5 +1,3 @@
-import javax.sound.midi.MidiFileFormat;
-
 public class Inversion_Count {
     
     //brute force approach
