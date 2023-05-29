@@ -230,38 +230,180 @@ public class LinkedList {
         return; 
     }
 
+    //Slow - Fast Apporach
+    public Node findMid(Node head)
+    {
+        Node slow = head;
+        Node fast = head;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next; //+1
+            fast = fast.next.next; //+2
+        }
+
+        return slow; // slow id my midNode
+    }
+
+    //Check Palindrome
+    public boolean checkPalindrone()
+    {
+        if(head == null || head.next != null)
+        {
+            return true;
+        }
+
+        //find mid - step 1
+        Node midNode = findMid(head);
+
+        //Reverse 2nd Half - Step 2
+        Node prev = null;
+        Node curr = midNode;
+        Node next;
+
+        while(curr != null)
+        {
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+
+        Node right = prev;
+        Node left = head;
+
+        // Check left half and right half
+
+        while(right != null)
+        {
+            if(left.data != right.data)
+            {
+                return false;
+            }
+
+            left = left.next;
+            right = right.next;
+        }
+
+        return true;
+
+    }
+
+    // Detect a loop in LL
+    public static boolean isCycle()
+    {
+        // Floyd's cycle finding algorithm
+        Node slow = head;
+        Node fast = head;
+
+        while(fast != null && fast.next != null)
+        {
+            slow = slow.next;
+            fast = fast.next.next;
+
+            if(slow == fast)
+            {
+                return true;
+            }   
+        }
+
+        return false;
+    }
+    
+    public static void removeCycle()
+    {
+        //detect cycle
+
+        Node slow = head;
+        Node fast = head;
+        boolean cycle = false;
+
+        while(fast != null && fast.next != null)
+        {
+            slow = slow.next;
+            fast = fast.next.next;
+
+            if(slow == fast)
+            {
+                cycle = true;
+                break;
+            }   
+        }
+
+
+        if (cycle == false) {
+            return;
+        }
+
+
+        // find meeting point
+        slow = head;
+        Node prev = null;
+
+        while(slow != fast)
+        {
+            prev = fast;
+            slow = slow.next;
+            fast = fast.next;
+        }
+
+
+        //remove cycle -> last.next = null;
+        prev.next = null;
+
+    }
     
     public static void main(String[] args) {
-        LinkedList ll = new LinkedList();
+        // LinkedList ll = new LinkedList();
+        // // ll.PrintList();
+        // ll.addFirst(2);
+        // // ll.PrintList();
+        // ll.addFirst(1);
+        // // ll.PrintList();
+        // // System.out.println(size);
+        // ll.addLast(3);
+        // // ll.PrintList();
+        // ll.addLast(4);
+        // // ll.PrintList();
+        // ll.add(2, 9);
         // ll.PrintList();
-        ll.addFirst(2);
-        // ll.PrintList();
-        ll.addFirst(1);
-        // ll.PrintList();
-        // System.out.println(size);
-        ll.addLast(3);
-        // ll.PrintList();
-        ll.addLast(4);
-        // ll.PrintList();
-        ll.add(2, 9);
-        ll.PrintList();
-        // System.out.println(size);
+        // // System.out.println(size);
 
-        // ll.removeFirst();
-        // ll.PrintList();
-        // System.out.println(size);
+        // // ll.removeFirst();
+        // // ll.PrintList();
+        // // System.out.println(size);
 
-        // ll.removeLast();
-        // ll.PrintList();
-        // System.out.println(size);
+        // // ll.removeLast();
+        // // ll.PrintList();
+        // // System.out.println(size);
 
-        // System.out.println(ll.iterativeSearch(4));
-        // System.out.println(ll.RecursiveSearch(2));
-        // ll.reverse();
+        // // System.out.println(ll.iterativeSearch(4));
+        // // System.out.println(ll.RecursiveSearch(2));
+        // // ll.reverse();
+        // // ll.PrintList();
+
+        // ll.deleteNthFromEnd(1);
         // ll.PrintList();
 
-        ll.deleteNthFromEnd(1);
-        ll.PrintList();
+        // ll.addFirst(1);
+        // ll.addLast(2);
+        // ll.addLast(2);
+        // ll.addLast(1);
+
+        // ll.PrintList();
+        // System.out.println(ll.checkPalindrone());
+
+        head = new Node(1);
+        Node temp = new Node(2);
+        head.next = temp;
+        head.next.next = new Node(3);
+        head.next.next.next = temp;
+        // 1->2->3->1
+
+        System.out.println(isCycle());
+        
+        removeCycle();
+        System.out.println(isCycle());
+
     }
 }
 
@@ -279,5 +421,24 @@ public class LinkedList {
  * RecursiveSearch()
  * reverse a linked list
  * Remove Nth Node from end
+ * find mid node
+ * check palindrome
+ * Detect a loop in ll
+ * 
+ * 
+ * REmove loop in ll
+ *  exaplanation
+ * 
+ * slow distance = x + a*d + y
+ * fast distance = x + b*d + y
+ * 
+ * x + b*d  + y = 2 * (x + a*d + y)
+ * bd - 2ad = x + y
+ * 
+ * x = d(b - 2a) - y
+ * 
+ * x = kd - y
+ * 
+ * 
  * 
  */
