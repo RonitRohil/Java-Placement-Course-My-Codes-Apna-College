@@ -1,3 +1,5 @@
+import java.util.Comparator;
+
 public class Arrays {
 
     public static void update(int marks[])
@@ -17,5 +19,15 @@ public class Arrays {
         {
             System.out.println(marks[i]);
         }
+    }
+
+    public static void sort(Integer[] costVer, Comparator<?> comparator) {
+    }
+
+    public static void sort(int[] a) {
+    }
+
+    public static Object asList(Integer[] currency) {
+        return null;
     }
 }
