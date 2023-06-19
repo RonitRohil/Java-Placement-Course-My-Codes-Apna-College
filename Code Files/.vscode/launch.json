@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeKSortedLL",
+            "request": "launch",
+            "mainClass": "MergeKSortedLL",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "MinOptoHalveArraySum",
+            "request": "launch",
+            "mainClass": "MinOptoHalveArraySum",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "PathwithMinEffort",
+            "request": "launch",
+            "mainClass": "PathwithMinEffort",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "MinTimetoFillNSlots",
+            "request": "launch",
+            "mainClass": "MinTimetoFillNSlots",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "KthLargestElement",
+            "request": "launch",
+            "mainClass": "KthLargestElement",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "SlidingWIndowMax",
+            "request": "launch",
+            "mainClass": "SlidingWIndowMax",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "WeekestSoldier",
+            "request": "launch",
+            "mainClass": "WeekestSoldier",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "ConnectNRopes",
+            "request": "launch",
+            "mainClass": "ConnectNRopes",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "IndianCoins",
             "request": "launch",
             "mainClass": "IndianCoins",
