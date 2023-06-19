@@ -43,7 +43,6 @@ public class MergeKSortedLL {
     static Node mergeKList(Node[] arr, int K) {
         PriorityQueue<Node> queue = new PriorityQueue<>(new NodeComparator());
 
-        Node at[] = new Node[K];
         Node head = new Node(0);
         Node last = head;
 

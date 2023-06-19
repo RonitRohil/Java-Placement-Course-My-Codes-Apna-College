@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortbyFrequency",
+            "request": "launch",
+            "mainClass": "SortbyFrequency",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "BottomViewofBT",
+            "request": "launch",
+            "mainClass": "BottomViewofBT",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "SubArraySumequaltoK",
+            "request": "launch",
+            "mainClass": "SubArraySumequaltoK",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "LargestSubarrraywithsumzero",
+            "request": "launch",
+            "mainClass": "LargestSubarrraywithsumzero",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "UnionIntersection",
+            "request": "launch",
+            "mainClass": "UnionIntersection",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "CountDistinctElement",
+            "request": "launch",
+            "mainClass": "CountDistinctElement",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "Tree_Set",
+            "request": "launch",
+            "mainClass": "Tree_Set",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "Hash_set",
+            "request": "launch",
+            "mainClass": "Hash_set",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "Valid_Anagram",
+            "request": "launch",
+            "mainClass": "Valid_Anagram",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "Majority_ELement",
+            "request": "launch",
+            "mainClass": "Majority_ELement",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "HashMapCode",
+            "request": "launch",
+            "mainClass": "HashMapCode",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "Linked_hashMap",
+            "request": "launch",
+            "mainClass": "Linked_hashMap",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "Tree_Map",
+            "request": "launch",
+            "mainClass": "Tree_Map",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "Hashing",
+            "request": "launch",
+            "mainClass": "Hashing",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "MergeKSortedLL",
             "request": "launch",
             "mainClass": "MergeKSortedLL",
