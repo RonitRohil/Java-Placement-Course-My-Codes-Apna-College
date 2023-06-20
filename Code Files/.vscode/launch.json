@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TopologicalSorting_DFS",
+            "request": "launch",
+            "mainClass": "TopologicalSorting_DFS",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "CycleDetectionDirectedGraph",
+            "request": "launch",
+            "mainClass": "CycleDetectionDirectedGraph",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "BipartiteGraph",
+            "request": "launch",
+            "mainClass": "BipartiteGraph",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "CycleinGraphs",
+            "request": "launch",
+            "mainClass": "CycleinGraphs",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "ConnectedComponents",
+            "request": "launch",
+            "mainClass": "ConnectedComponents",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "HasPath",
             "request": "launch",
             "mainClass": "HasPath",
