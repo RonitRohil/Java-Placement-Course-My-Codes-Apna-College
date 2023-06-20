@@ -24,7 +24,7 @@ public class Arrays {
     public static void sort(Integer[] costVer, Comparator<?> comparator) {
     }
 
-    public static void sort(int[] a) {
+    public static void sort(char[] word) {
     }
 
     public static Object asList(Integer[] currency) {

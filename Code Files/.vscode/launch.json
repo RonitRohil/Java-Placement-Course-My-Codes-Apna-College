@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestWordinDictionary",
+            "request": "launch",
+            "mainClass": "LongestWordinDictionary",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "GroupAnagramsTogether",
+            "request": "launch",
+            "mainClass": "GroupAnagramsTogether",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "LongestWordwithallPrefixes",
+            "request": "launch",
+            "mainClass": "LongestWordwithallPrefixes",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "CountUniqueSubstrings",
+            "request": "launch",
+            "mainClass": "CountUniqueSubstrings",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "startsWithProblem",
+            "request": "launch",
+            "mainClass": "startsWithProblem",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "PrefixProblem",
+            "request": "launch",
+            "mainClass": "PrefixProblem",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "WordBreakProblem",
+            "request": "launch",
+            "mainClass": "WordBreakProblem",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "Tries",
+            "request": "launch",
+            "mainClass": "Tries",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "SortbyFrequency",
             "request": "launch",
             "mainClass": "SortbyFrequency",
