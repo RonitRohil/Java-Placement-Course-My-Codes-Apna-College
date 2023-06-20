@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HasPath",
+            "request": "launch",
+            "mainClass": "HasPath",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "DFS",
+            "request": "launch",
+            "mainClass": "DFS",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "BFS",
+            "request": "launch",
+            "mainClass": "BFS",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "Graph",
+            "request": "launch",
+            "mainClass": "Graph",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "LongestWordinDictionary",
             "request": "launch",
             "mainClass": "LongestWordinDictionary",
