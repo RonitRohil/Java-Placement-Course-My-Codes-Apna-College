@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WordLadder",
+            "request": "launch",
+            "mainClass": "WordLadder",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "SizeofLargestRegionInMatrix",
+            "request": "launch",
+            "mainClass": "SizeofLargestRegionInMatrix",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "MinTimetoRotallOranges",
+            "request": "launch",
+            "mainClass": "MinTimetoRotallOranges",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "MinDepthofBT",
+            "request": "launch",
+            "mainClass": "MinDepthofBT",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "DetectCycle_UndirectedGraph_BFS",
+            "request": "launch",
+            "mainClass": "DetectCycle_UndirectedGraph_BFS",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "DijkstrasAlgo",
+            "request": "launch",
+            "mainClass": "DijkstrasAlgo",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "TopologicalSort_BFS",
+            "request": "launch",
+            "mainClass": "TopologicalSort_BFS",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "TopologicalSorting_DFS",
             "request": "launch",
             "mainClass": "TopologicalSorting_DFS",
