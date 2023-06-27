@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumSpanningTree",
+            "request": "launch",
+            "mainClass": "MinimumSpanningTree",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "BellmanFord_Algorithm",
+            "request": "launch",
+            "mainClass": "BellmanFord_Algorithm",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "WordLadder",
             "request": "launch",
             "mainClass": "WordLadder",
