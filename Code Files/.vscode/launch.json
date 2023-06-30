@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CloseIslands",
+            "request": "launch",
+            "mainClass": "CloseIslands",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "AlienDictionary",
+            "request": "launch",
+            "mainClass": "AlienDictionary",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "TaskFinishing",
+            "request": "launch",
+            "mainClass": "TaskFinishing",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "UnionFind",
+            "request": "launch",
+            "mainClass": "UnionFind",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "MotherVertex",
+            "request": "launch",
+            "mainClass": "MotherVertex",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "FloydWarshallAglo",
+            "request": "launch",
+            "mainClass": "FloydWarshallAglo",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "FloodFillAlgo",
+            "request": "launch",
+            "mainClass": "FloodFillAlgo",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "KruskalsAlgo",
+            "request": "launch",
+            "mainClass": "KruskalsAlgo",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "DisjointSet",
+            "request": "launch",
+            "mainClass": "DisjointSet",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "ConnectingCities",
+            "request": "launch",
+            "mainClass": "ConnectingCities",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "CheapestFlightswithinKStops",
+            "request": "launch",
+            "mainClass": "CheapestFlightswithinKStops",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "MinimumSpanningTree",
             "request": "launch",
             "mainClass": "MinimumSpanningTree",
