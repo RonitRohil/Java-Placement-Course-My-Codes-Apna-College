@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UnboundedKnapsack",
+            "request": "launch",
+            "mainClass": "UnboundedKnapsack",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "TargetSumSubset",
+            "request": "launch",
+            "mainClass": "TargetSumSubset",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "Knapsack01",
+            "request": "launch",
+            "mainClass": "Knapsack01",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "ClimbingStairs",
+            "request": "launch",
+            "mainClass": "ClimbingStairs",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "DP",
+            "request": "launch",
+            "mainClass": "DP",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "ArticulationPoint",
             "request": "launch",
             "mainClass": "ArticulationPoint",

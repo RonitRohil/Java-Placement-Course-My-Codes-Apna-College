@@ -30,4 +30,7 @@ public class Arrays {
     public static Object asList(Integer[] currency) {
         return null;
     }
+
+    public static void fill(int[] ways, int i) {
+    }
 }
