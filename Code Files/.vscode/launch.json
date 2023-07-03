@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestCommonSequence",
+            "request": "launch",
+            "mainClass": "LongestCommonSequence",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "RodCutting",
+            "request": "launch",
+            "mainClass": "RodCutting",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "CoinChange",
+            "request": "launch",
+            "mainClass": "CoinChange",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "UnboundedKnapsack",
             "request": "launch",
             "mainClass": "UnboundedKnapsack",
