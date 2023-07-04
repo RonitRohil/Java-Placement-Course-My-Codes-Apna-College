@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MountainRanges",
+            "request": "launch",
+            "mainClass": "MountainRanges",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "CountBSTs",
+            "request": "launch",
+            "mainClass": "CountBSTs",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "CatalanNumber",
+            "request": "launch",
+            "mainClass": "CatalanNumber",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "WildCardMatching",
+            "request": "launch",
+            "mainClass": "WildCardMatching",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "EditDistance",
             "request": "launch",
             "mainClass": "EditDistance",
