@@ -33,4 +33,7 @@ public class Arrays {
 
     public static void fill(int[] ways, int i) {
     }
+
+    public static void sort(int[] arr2) {
+    }
 }

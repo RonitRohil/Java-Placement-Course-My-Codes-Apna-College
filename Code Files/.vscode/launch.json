@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EditDistance",
+            "request": "launch",
+            "mainClass": "EditDistance",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonSubstring",
+            "request": "launch",
+            "mainClass": "LongestCommonSubstring",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "LongestCommonSequence",
             "request": "launch",
             "mainClass": "LongestCommonSequence",
