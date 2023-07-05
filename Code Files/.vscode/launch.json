@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestIncreasingPathinMatrix",
+            "request": "launch",
+            "mainClass": "LongestIncreasingPathinMatrix",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "BalancedParenthesis",
+            "request": "launch",
+            "mainClass": "BalancedParenthesis",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "TribonacciNumbers",
+            "request": "launch",
+            "mainClass": "TribonacciNumbers",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "MinArrayJumps",
+            "request": "launch",
+            "mainClass": "MinArrayJumps",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "MinimumPartitioning",
+            "request": "launch",
+            "mainClass": "MinimumPartitioning",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "MatrixChainMultiplication",
+            "request": "launch",
+            "mainClass": "MatrixChainMultiplication",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "MountainRanges",
             "request": "launch",
             "mainClass": "MountainRanges",
