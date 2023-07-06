@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxMinElementQueries",
+            "request": "launch",
+            "mainClass": "MaxMinElementQueries",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "SegmentTrees",
+            "request": "launch",
+            "mainClass": "SegmentTrees",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
             "name": "LongestIncreasingPathinMatrix",
             "request": "launch",
             "mainClass": "LongestIncreasingPathinMatrix",
