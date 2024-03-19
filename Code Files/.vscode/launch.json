@@ -1,0 +1,525 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Quick_Sort",
+            "request": "launch",
+            "mainClass": "Quick_Sort",
+            "projectName": "Code Files_7452d193"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Constructor",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Constructors",
+            "request": "launch",
+            "mainClass": "Constructors",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Classes_Object",
+            "request": "launch",
+            "mainClass": "Classes_Object",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "UppercasetoLowerCase",
+            "request": "launch",
+            "mainClass": "UppercasetoLowerCase",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Add1",
+            "request": "launch",
+            "mainClass": "Add1",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Swap",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "FastExponention",
+            "request": "launch",
+            "mainClass": "FastExponention",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "numberofSetBits",
+            "request": "launch",
+            "mainClass": "numberofSetBits",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Powerof2_not",
+            "request": "launch",
+            "mainClass": "Powerof2_not",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Operations",
+            "request": "launch",
+            "mainClass": "Operations",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Advanced_Patterns",
+            "request": "launch",
+            "mainClass": "Advanced_Patterns",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Array2d",
+            "request": "launch",
+            "mainClass": "Array2d",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Search",
+            "request": "launch",
+            "mainClass": "Binary_Search",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Binary_to_decimal",
+            "request": "launch",
+            "mainClass": "Binary_to_decimal",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "BitOperators",
+            "request": "launch",
+            "mainClass": "BitOperators",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Buyandsellstock",
+            "request": "launch",
+            "mainClass": "Buyandsellstock",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Calculator_16",
+            "request": "launch",
+            "mainClass": "Calculator_16",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Character_pattern_27",
+            "request": "launch",
+            "mainClass": "Character_pattern_27",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Decimal_to_Binary",
+            "request": "launch",
+            "mainClass": "Decimal_to_Binary",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Functions",
+            "request": "launch",
+            "mainClass": "Functions",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "HW",
+            "request": "launch",
+            "mainClass": "HW",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "HW_Distinct",
+            "request": "launch",
+            "mainClass": "HW_Distinct",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "HW_Find_Element",
+            "request": "launch",
+            "mainClass": "HW_Find_Element",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Half_pyramid_26",
+            "request": "launch",
+            "mainClass": "Half_pyramid_26",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "IF_Else10",
+            "request": "launch",
+            "mainClass": "IF_Else10",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Incometax13",
+            "request": "launch",
+            "mainClass": "Incometax13",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "IsPalindrome",
+            "request": "launch",
+            "mainClass": "IsPalindrome",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasics01",
+            "request": "launch",
+            "mainClass": "JavaBasics01",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Largest_in_array",
+            "request": "launch",
+            "mainClass": "Largest_in_array",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Linear_Search",
+            "request": "launch",
+            "mainClass": "Linear_Search",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Max_sum_subarray",
+            "request": "launch",
+            "mainClass": "Max_sum_subarray",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Pairs_in_array",
+            "request": "launch",
+            "mainClass": "Pairs_in_array",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Pass_fail_15",
+            "request": "launch",
+            "mainClass": "Pass_fail_15",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Prime_range",
+            "request": "launch",
+            "mainClass": "Prime_range",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_A_array",
+            "request": "launch",
+            "mainClass": "Reverse_A_array",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Array",
+            "request": "launch",
+            "mainClass": "Reverse_Array",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Sort",
+            "request": "launch",
+            "mainClass": "Sort",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern_25",
+            "request": "launch",
+            "mainClass": "Star_Pattern_25",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "StringCompression",
+            "request": "launch",
+            "mainClass": "StringCompression",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "String_to_Uppercase",
+            "request": "launch",
+            "mainClass": "String_to_Uppercase",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Subarrays",
+            "request": "launch",
+            "mainClass": "Subarrays",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Sum02",
+            "request": "launch",
+            "mainClass": "Sum02",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "Trapping_rainwater",
+            "request": "launch",
+            "mainClass": "Trapping_rainwater",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "areaofcircle06",
+            "request": "launch",
+            "mainClass": "areaofcircle06",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "areaofsq08",
+            "request": "launch",
+            "mainClass": "areaofsq08",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "diagonalsum",
+            "request": "launch",
+            "mainClass": "diagonalsum",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "factorial_24",
+            "request": "launch",
+            "mainClass": "factorial_24",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "input03",
+            "request": "launch",
+            "mainClass": "input03",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "largestof2",
+            "request": "launch",
+            "mainClass": "largestof2",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "largestof3_14",
+            "request": "launch",
+            "mainClass": "largestof3_14",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "largeststring",
+            "request": "launch",
+            "mainClass": "largeststring",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "multiplication_table_23",
+            "request": "launch",
+            "mainClass": "multiplication_table_23",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "oddeven12",
+            "request": "launch",
+            "mainClass": "oddeven12",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "pricesandgst09",
+            "request": "launch",
+            "mainClass": "pricesandgst09",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "prime_num_21",
+            "request": "launch",
+            "mainClass": "prime_num_21",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "print10num17",
+            "request": "launch",
+            "mainClass": "print10num17",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "product05",
+            "request": "launch",
+            "mainClass": "product05",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "reverse_a_num_20",
+            "request": "launch",
+            "mainClass": "reverse_a_num_20",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "searchinsortedarray",
+            "request": "launch",
+            "mainClass": "searchinsortedarray",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "shortestpath",
+            "request": "launch",
+            "mainClass": "shortestpath",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "spiralarray",
+            "request": "launch",
+            "mainClass": "spiralarray",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "square_pattern_19",
+            "request": "launch",
+            "mainClass": "square_pattern_19",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "stringbuilder",
+            "request": "launch",
+            "mainClass": "stringbuilder",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_digits",
+            "request": "launch",
+            "mainClass": "sum_of_digits",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_odd_even_22",
+            "request": "launch",
+            "mainClass": "sum_of_odd_even_22",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "suminput04",
+            "request": "launch",
+            "mainClass": "suminput04",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "sumofnnumbers18",
+            "request": "launch",
+            "mainClass": "sumofnnumbers18",
+            "projectName": "Code Files_f3001f39"
+        },
+        {
+            "type": "java",
+            "name": "variablehwavg07",
+            "request": "launch",
+            "mainClass": "variablehwavg07",
+            "projectName": "Code Files_f3001f39"
+        }
+    ]
+}
